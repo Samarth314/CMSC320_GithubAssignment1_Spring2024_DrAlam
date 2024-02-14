@@ -1,0 +1,4 @@
+I am interested in taking CMSC320 because I am currently studying Computer Science on the
+Machine Learning track which depends heavily on Data Science. Studying and determining
+the best ways to take and transform data for processing is detrimental to the success of 
+AI algorithms. 
